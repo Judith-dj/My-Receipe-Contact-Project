@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.container{
+  
+  padding:10px;
+}
+.section-one{
+  color: white;
+  background-color: black;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.section-one__desc{
+  color:darkgray;
+}
+.container1{
+  text-align: center;
+  padding:15px;
+  
+}
+
+.section-two,.section-three,.section-four,.section-five{
+  border:solid black 2px;
+  display:inline-block;
+}
+.section-two__button,.section-three__button,.section-four__button,.section-five__button{
+  color: white;
+  background-color: black;
+  padding-top: 5px;
+  padding-bottom:5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.contact{
+  background-color: black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+.contact__button{
+  color: black;
+  background-color: yellow;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+
+
+
+
